@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Ramanarayanan Sankaranarayanan</h1>
-## About Me
+
+## About Me:
 - 🎓 I am currently a Computer Science grad student at New York University.
 - 💼 2+ years experienced Fullstack Software Engineer | AR,VR,MR Software Developer
 
