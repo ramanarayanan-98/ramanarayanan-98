@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ramanarayanan.s.1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mLoioOwuwVZl8Y7oRlZSD05_VwNqnU0f/view?usp=sharing](https://drive.google.com/file/d/1mLoioOwuwVZl8Y7oRlZSD05_VwNqnU0f/view?usp=sharing)
+- 📄 You can find my resume [here](https://drive.google.com/file/d/1mLoioOwuwVZl8Y7oRlZSD05_VwNqnU0f/view?usp=sharing)
 
 ## Connect with me:
 <p align="left">
