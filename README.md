@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🎓 I am currently a Computer Science grad student at New York University.
 - 💼 2+ years experienced Fullstack Software Engineer | AR,VR,MR Software Developer
 
-- 📫 How to reach me **ramanarayanan.s.1998@gmail.com**
+- 📫 How to reach me **ramanarayanan.s.1998@gmail.com** / **rs8117@nyu.edu**
 
 - 📄 You can find my resume [here](https://drive.google.com/file/d/1mLoioOwuwVZl8Y7oRlZSD05_VwNqnU0f/view?usp=sharing)
 
