@@ -17,17 +17,23 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ramanarayanan Sankaranarayanan</h1>
 
 ## About Me:
-- 🎓 I am currently a Computer Science grad student at New York University.
-- 💼 2+ years experienced Fullstack Software Engineer | AR,VR,MR Software Developer
+- 2+ years experienced Software Engineer currently pursuing my Masters at New York University. 
+- Core work experiences:
+    1) Mobile development using Java & Swift.
+    2) Backend microservices development using Golang & C++.
+    3) Mixed Reality 3D application development for Microsoft Hololens 2 using Unity & C#.
+    4) Applied Machine Learning.
+
+- Seeking New Grad opportunities starting May 2024 in Golang, C++, Java Backend development | Mobile Development | AI,ML | AR,VR,MR.
 
 - 📫 How to reach me **ramanarayanan.s.1998@gmail.com** / **rs8117@nyu.edu**
 
-- 📄 You can find my resume [here](https://drive.google.com/file/d/1AXbgHHX__3Fd35kyUK6i4t3wTCrPiCax/view?usp=sharing)
+- 📄 You can find my resume [here](https://docs.google.com/document/d/1r91V7U6mV0dLp5r9hMOxuNdVBg0WcGHtdEUoiF1QCHs/edit?usp=sharing)
 
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ramanarayanan-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramanarayanan-s" height="30" width="40" /></a>
-<a href="https://instagram.com/ramanarayanan_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramanarayanan_98" height="30" width="40" /></a>
+<a href="https://instagram.com/ram_harish98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ram_harish98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harish091998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harish091998" height="30" width="40" /></a>
 </p>
 
