@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## About Me:
 - 2+ years experienced Software Engineer currently pursuing my Masters at New York University. 
 - Core work experiences:
-    1) Mobile development using Java & Swift.
+    1) Android & iOS Mobile development using Java, Kotlin & Swift.
     2) Backend microservices development using Golang & C++.
     3) Mixed Reality 3D application development for Microsoft Hololens 2 using Unity & C#.
     4) Applied Machine Learning.
